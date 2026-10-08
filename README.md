@@ -131,4 +131,4 @@ Once the server is running, explore the interactive Swagger documentation at:
 ```
 http://localhost:8000/api/documentation
 ```
-Or inspect the static OpenAPI spec located at [docs/openapi.yaml](docs/openapi.yaml).
+Or check the comprehensive endpoints guide at [API_README.md](API_README.md), as well as the static OpenAPI spec located at [docs/openapi.yaml](docs/openapi.yaml).
